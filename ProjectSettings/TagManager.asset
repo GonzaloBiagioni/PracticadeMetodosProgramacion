@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Moneda
+  - Win
   layers:
   - Default
   - TransparentFX
